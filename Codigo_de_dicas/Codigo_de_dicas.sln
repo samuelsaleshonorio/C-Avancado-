@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codigo_de_dicas", "Codigo_de_dicas\Codigo_de_dicas.csproj", "{57AF9A93-6B77-4A93-BD79-17A96B86E8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AF9A93-6B77-4A93-BD79-17A96B86E8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AF9A93-6B77-4A93-BD79-17A96B86E8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AF9A93-6B77-4A93-BD79-17A96B86E8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AF9A93-6B77-4A93-BD79-17A96B86E8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C760363-8BD6-442A-ACAF-9F103FD2194E}
+	EndGlobalSection
+EndGlobal
